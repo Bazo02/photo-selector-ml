@@ -64,7 +64,7 @@ photo-selector-ml/
 
    Then open `notebooks/first_colab_notebook.ipynb` and select the kernel you just created.
 
-## 👥 Authors
+## Authors
 - Alexander Bazo ([Bazo02](https://github.com/Bazo02))
 - Kimberly Crimson ([kimmicode](https://github.com/kimmicode))
 - Espen Fodstad ([esfod](https://github.com/esfod))
