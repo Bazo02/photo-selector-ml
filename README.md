@@ -14,26 +14,59 @@ This project explores using machine learning and deep learning models to automat
 - Synthetic data and real-world datasets like AVA (Aesthetic Visual Analysis)
 
 ##  Project Structure
+```
 photo-selector-ml/
-├── data/               # For sample image sets
-├── notebooks/          # Jupyter notebooks (e.g., Colab)
-├── src/                # Core Python scripts
-│   ├── preprocess.py
-│   ├── scorer.py
-│   └── enhancer.py
-├── requirements.txt    # Python dependencies
-├── README.md           # Project info
+├── data/               # For sample image sets  
+├── notebooks/          # Jupyter notebooks (e.g., Colab)  
+├── src/                # Core Python scripts  
+│   ├── preprocess.py  
+│   ├── scorer.py  
+│   └── enhancer.py  
+├── requirements.txt    # Python dependencies  
+├── README.md           # Project info  
 └── .gitignore          # Ignored files/folders
+```
 
-# Install dependencies
+##  Installation
 
-pip install -r requirements.txt
-eller 
-pip3 install -r requirements.txt
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Bazo02/photo-selector-ml.git
+   ```
 
+2. **Navigate to the repository**  
+   ```bash
+   cd photo-selector-ml
+   ```
 
+3. **Create a virtual environment**  
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate  # On macOS/Linux
+   ```
 
-## 🧑 Authors
-- Alexander Bazo (@Bazo02)
-- Kimberly Crimson (@kimmicode)
-- Espen Fodstad (@esfod)
+   **Windows:**  
+   ```bash
+   .venv\Scripts\activate
+   ```
+
+4. **Install dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   # or if needed:
+   pip3 install -r requirements.txt
+   ```
+
+5. **(Optional) Register Jupyter kernel and run the notebook**  
+   ```bash
+   python3 -m ipykernel install --user --name=photo-selector-env
+   ```
+
+   Then open `notebooks/first_colab_notebook.ipynb` and select the kernel you just created.
+
+## 👥 Authors
+- Alexander Bazo ([Bazo02](https://github.com/Bazo02))
+- Kimberly Crimson ([kimmicode](https://github.com/kimmicode))
+- Espen Fodstad ([esfod](https://github.com/esfod))
+
+```
