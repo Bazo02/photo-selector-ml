@@ -17,4 +17,8 @@ venv/
 
 # VS Code
 .vscode/
+
+# Model checkpoints and large binaries
+*.pth
+pairwise_model.pth
               
