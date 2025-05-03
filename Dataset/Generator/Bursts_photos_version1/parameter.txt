@@ -1,0 +1,12 @@
+burst_size = 10
+spacing = 30      #frames skipped between bursts
+frame_stride = 3
+
+
+run_burst_gen = extract_bursts_from_video(
+    input_dir="input_dir",
+    output_dir="output_dir",
+    burst_size=burst_size,
+    frame_stride=frame_stride,
+    spacing=spacing
+)

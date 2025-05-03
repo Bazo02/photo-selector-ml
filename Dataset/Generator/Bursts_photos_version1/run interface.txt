@@ -1,0 +1,491 @@
+C:\Users\bjark\Final_Project_ACIT4630\.venv\Scripts\python.exe C:\Users\bjark\Final_Project_ACIT4630\main.py 
+📽 Processing video 1/40: 12759647_3840_2160_60fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+✅ 11 complete bursts extracted from 12759647_3840_2160_60fps.mp4
+
+📽 Processing video 2/40: 12831301_3840_2160_60fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+🧾 Burst 19: saved 10 frames
+🧾 Burst 20: saved 10 frames
+🧾 Burst 21: saved 10 frames
+🧾 Burst 22: saved 10 frames
+🧾 Burst 23: saved 10 frames
+🧾 Burst 24: saved 10 frames
+🧾 Burst 25: saved 10 frames
+🧾 Burst 26: saved 10 frames
+🧾 Burst 27: saved 10 frames
+🧾 Burst 28: saved 10 frames
+🧾 Burst 29: saved 10 frames
+🧾 Burst 30: saved 10 frames
+🧾 Burst 31: saved 10 frames
+🧾 Burst 32: saved 10 frames
+✅ 33 complete bursts extracted from 12831301_3840_2160_60fps.mp4
+
+📽 Processing video 3/40: 13384444_1920_1080_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+✅ 19 complete bursts extracted from 13384444_1920_1080_30fps.mp4
+
+📽 Processing video 4/40: 13422106-hd_1920_1080_24fps.mp4
+🧾 Burst 00: saved 10 frames
+✅ 1 complete bursts extracted from 13422106-hd_1920_1080_24fps.mp4
+
+📽 Processing video 5/40: 13460279_3840_2160_24fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from 13460279_3840_2160_24fps.mp4
+
+📽 Processing video 6/40: 13475074_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from 13475074_3840_2160_25fps.mp4
+
+📽 Processing video 7/40: 13476456_3840_2160_120fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+🧾 Burst 19: saved 10 frames
+🧾 Burst 20: saved 10 frames
+🧾 Burst 21: saved 10 frames
+🧾 Burst 22: saved 10 frames
+🧾 Burst 23: saved 10 frames
+🧾 Burst 24: saved 10 frames
+🧾 Burst 25: saved 10 frames
+🧾 Burst 26: saved 10 frames
+🧾 Burst 27: saved 10 frames
+🧾 Burst 28: saved 10 frames
+🧾 Burst 29: saved 10 frames
+🧾 Burst 30: saved 10 frames
+🧾 Burst 31: saved 10 frames
+🧾 Burst 32: saved 10 frames
+🧾 Burst 33: saved 10 frames
+🧾 Burst 34: saved 10 frames
+🧾 Burst 35: saved 10 frames
+🧾 Burst 36: saved 10 frames
+🧾 Burst 37: saved 10 frames
+🧾 Burst 38: saved 10 frames
+🧾 Burst 39: saved 10 frames
+🧾 Burst 40: saved 10 frames
+🧾 Burst 41: saved 10 frames
+🧾 Burst 42: saved 10 frames
+🧾 Burst 43: saved 10 frames
+🧾 Burst 44: saved 10 frames
+🧾 Burst 45: saved 10 frames
+🧾 Burst 46: saved 10 frames
+🧾 Burst 47: saved 10 frames
+🧾 Burst 48: saved 10 frames
+🧾 Burst 49: saved 10 frames
+🧾 Burst 50: saved 10 frames
+🧾 Burst 51: saved 10 frames
+🧾 Burst 52: saved 10 frames
+🧾 Burst 53: saved 10 frames
+🧾 Burst 54: saved 10 frames
+🧾 Burst 55: saved 10 frames
+🧾 Burst 56: saved 10 frames
+🧾 Burst 57: saved 10 frames
+🧾 Burst 58: saved 10 frames
+🧾 Burst 59: saved 10 frames
+🧾 Burst 60: saved 10 frames
+🧾 Burst 61: saved 10 frames
+🧾 Burst 62: saved 10 frames
+🧾 Burst 63: saved 10 frames
+🧾 Burst 64: saved 10 frames
+🧾 Burst 65: saved 10 frames
+🧾 Burst 66: saved 10 frames
+🧾 Burst 67: saved 10 frames
+🧾 Burst 68: saved 10 frames
+🧾 Burst 69: saved 10 frames
+✅ 70 complete bursts extracted from 13476456_3840_2160_120fps.mp4
+
+📽 Processing video 8/40: 13481938_3840_2160_60fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+🧾 Burst 19: saved 10 frames
+🧾 Burst 20: saved 10 frames
+✅ 21 complete bursts extracted from 13481938_3840_2160_60fps.mp4
+
+📽 Processing video 9/40: 13544609_3840_2160_24fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from 13544609_3840_2160_24fps.mp4
+
+📽 Processing video 10/40: 13544619_3840_2160_24fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+✅ 4 complete bursts extracted from 13544619_3840_2160_24fps.mp4
+
+📽 Processing video 11/40: 13547064_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+✅ 6 complete bursts extracted from 13547064_3840_2160_30fps.mp4
+
+📽 Processing video 12/40: 13551900_1920_1080_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+✅ 7 complete bursts extracted from 13551900_1920_1080_30fps.mp4
+
+📽 Processing video 13/40: 13557058_1920_1080_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+✅ 9 complete bursts extracted from 13557058_1920_1080_25fps.mp4
+
+📽 Processing video 14/40: 13560240_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+🧾 Burst 19: saved 10 frames
+🧾 Burst 20: saved 10 frames
+✅ 21 complete bursts extracted from 13560240_3840_2160_30fps.mp4
+
+📽 Processing  video 15/40: 13560971_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+✅ 2 complete bursts extracted from 13560971_3840_2160_30fps.mp4
+
+📽 Processing video 16/40: 13565133_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+✅ 4 complete bursts extracted from 13565133_3840_2160_25fps.mp4
+
+📽 Processing video 17/40: 13572085_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+✅ 1 complete bursts extracted from 13572085_3840_2160_30fps.mp4
+
+📽 Processing video 18/40: 13573986_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+✅ 2 complete bursts extracted from 13573986_3840_2160_30fps.mp4
+
+📽 Processing video 19/40: 13578414_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+✅ 6 complete bursts extracted from 13578414_3840_2160_30fps.mp4
+
+📽 Processing video 20/40: 13578610_2560_1440_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 13578610_2560_1440_30fps.mp4
+
+📽 Processing video 21/40: 13579685_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+✅ 6 complete bursts extracted from 13579685_3840_2160_30fps.mp4
+
+📽 Processing video 22/40: 13583622_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from 13583622_3840_2160_25fps.mp4
+
+📽 Processing video 23/40: 13775356-uhd_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 13775356-uhd_3840_2160_25fps.mp4
+
+📽 Processing video 24/40: 1675445-hd_1920_1080_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+✅ 10 complete bursts extracted from 1675445-hd_1920_1080_30fps.mp4
+
+📽 Processing video 25/40: 19002094-uhd_3840_2160_60fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+✅ 12 complete bursts extracted from 19002094-uhd_3840_2160_60fps.mp4
+
+📽 Processing video 26/40: 2260990-uhd_3840_2160_24fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+✅ 6 complete bursts extracted from 2260990-uhd_3840_2160_24fps.mp4
+
+📽 Processing video 27/40: 2833833-uhd_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+🧾 Burst 11: saved 10 frames
+🧾 Burst 12: saved 10 frames
+🧾 Burst 13: saved 10 frames
+🧾 Burst 14: saved 10 frames
+🧾 Burst 15: saved 10 frames
+🧾 Burst 16: saved 10 frames
+🧾 Burst 17: saved 10 frames
+🧾 Burst 18: saved 10 frames
+✅ 19 complete bursts extracted from 2833833-uhd_3840_2160_30fps.mp4
+
+📽 Processing video 28/40: 2867649-uhd_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+✅ 10 complete bursts extracted from 2867649-uhd_3840_2160_25fps.mp4
+
+📽 Processing video 29/40: 2873755-uhd_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+✅ 11 complete bursts extracted from 2873755-uhd_3840_2160_25fps.mp4
+
+📽 Processing video 30/40: 3002391-hd_1920_1080_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+✅ 2 complete bursts extracted from 3002391-hd_1920_1080_25fps.mp4
+
+📽 Processing video 31/40: 3059063-hd_1920_1080_24fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+🧾 Burst 06: saved 10 frames
+🧾 Burst 07: saved 10 frames
+🧾 Burst 08: saved 10 frames
+🧾 Burst 09: saved 10 frames
+🧾 Burst 10: saved 10 frames
+✅ 11 complete bursts extracted from 3059063-hd_1920_1080_24fps.mp4
+
+📽 Processing video 32/40: 3195812-uhd_3840_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+✅ 2 complete bursts extracted from 3195812-uhd_3840_2160_25fps.mp4
+
+📽 Processing video 33/40: 3512545-hd_1920_1080_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 3512545-hd_1920_1080_25fps.mp4
+
+📽 Processing video 34/40: 3783242-hd_1920_1080_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+✅ 4 complete bursts extracted from 3783242-hd_1920_1080_25fps.mp4
+
+📽 Processing video 35/40: 4729790-hd_1920_1080_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 4729790-hd_1920_1080_25fps.mp4
+
+📽 Processing video 36/40: 4887915-uhd_4096_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 4887915-uhd_4096_2160_25fps.mp4
+
+📽 Processing video 37/40: 4919748-uhd_4096_2160_25fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from 4919748-uhd_4096_2160_25fps.mp4
+
+📽 Processing video 38/40: 5155396-uhd_3840_2160_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+✅ 5 complete bursts extracted from 5155396-uhd_3840_2160_30fps.mp4
+
+📽 Processing video 39/40: jogging-uhd_2560_1440_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+✅ 3 complete bursts extracted from jogging-uhd_2560_1440_30fps.mp4
+
+📽 Processing video 40/40: walking_3840_2160_60_30fps.mp4
+🧾 Burst 00: saved 10 frames
+🧾 Burst 01: saved 10 frames
+🧾 Burst 02: saved 10 frames
+🧾 Burst 03: saved 10 frames
+🧾 Burst 04: saved 10 frames
+🧾 Burst 05: saved 10 frames
+✅ 6 complete bursts extracted from walking_3840_2160_60_30fps.mp4
+
+
+Process finished with exit code 0
+
+
+4044 images
+
